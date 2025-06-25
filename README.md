@@ -17,8 +17,8 @@
 ---
 
 ### 💼 Experiências e Projetos
-- ** Curso DIO - javascript **
-Javascript, node.js
+- **Curso DIO - javascript**
+  Javascript, node.js
    
 - 🌐 **Curso Ada Tech 2025**  
   JavaScript, lógica de programação, Node.js
