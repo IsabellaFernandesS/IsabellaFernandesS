@@ -1,4 +1,4 @@
-## Hello World, I'm Isabella Fernandes, be very welcome! 👋
+
 <h1 align="center">Oi, eu sou Isabella Fernandes! Seja muito bem vindo(a)! 👋 </h1>
 <p align="center" style="color:#000080; font-size:18px;">
   Transformando curiosidade em código, ideias em soluções.
