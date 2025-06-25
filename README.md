@@ -14,6 +14,8 @@
 - 🔧 Experiência prática com **POO**, **APIs REST**, e **bancos de dados SQL**
 - 🚀 Em busca de uma oportunidade para crescer profissionalmente e aplicar meus conhecimentos
 
+---
+
 ### 💼 Experiências e Projetos
 - ** Curso DIO - javascript **
 Javascript, node.js
